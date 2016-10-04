@@ -1,20 +1,21 @@
+# Module Madness
 This repo is a solution to a challenge on the new topic we just learn which
 is about node.js.
 
-Description
-Module Madness
+## Description
+
 In this challenge, you will need to spin up a new project (much like we did in lecture). You will create three modules as specified below, create an app.js that will use these modules!
 
-Modules
-Module One
+### Modules
+-Module One
 
 The first module will export a function that returns a random number after taking in a min and max value as arguments (hint: you can use random number functions from previous assignments). When you call this module, use 100 as your min, and 1000000 as your max.
 
-Module Two
+-Module Two
 
 The second module should accept a number and convert it to a USD value. You can find some good implementations of this online.
 
-Module Three
+-Module Three
 
 The third module should require the other two modules (i.e. Module One and Module Two). It should have two function exports:
 
