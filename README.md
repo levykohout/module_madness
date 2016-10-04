@@ -25,4 +25,4 @@ app.js
 Finally, in the app.js file use the functions from your third module to produce the following output in the console:
 
 ```Account balance:
-$156,301``
+$156,301```
